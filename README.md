@@ -1,13 +1,16 @@
-# ☕ Starbucks Landing Page (Desenvolvido com React)
+# 🐎 Sleipnir Brew - Landing Page (Desenvolvido com React)
 
-Este repositório apresenta uma landing page dinâmica e interativa, inspirada no design minimalista e moderno da marca Starbucks. O projeto foi construído inteiramente com **React**, demonstrando o uso eficiente de estados e componentes para criar uma experiência de usuário visualmente envolvente.
+Este repositório apresenta a landing page do **Sleipnir Brew**, uma cafeteria fictícia com uma identidade de marca inspirada em mitologia Nórdica e na excelência. O projeto foi construído inteiramente com **React**, demonstrando o uso eficiente de estados e componentes para criar uma interface de usuário visualmente envolvente e sofisticada.
+
+O nome "Sleipnir Brew" evoca a ideia de algo lendário, rápido e de qualidade superior (como o cavalo de oito patas de Odin), comunicando um produto premium e único.
 
 ## ✨ Destaques do Projeto
 
-* **Arquitetura em Componentes:** O projeto é modularizado, com componentes específicos para o cabeçalho, conteúdo principal e menu de seleção de produtos.
+* **Nova Identidade de Marca:** O projeto aplica uma paleta de cores e um conceito visual que se alinha à marca Sleipnir Brew (foco em sofisticação, mitologia e força).
+* **Arquitetura em Componentes:** A interface é modularizada, facilitando a manutenção e a reutilização de elementos.
 * **Gerenciamento de Estado (`useState`):** Utilização do hook `useState` para controlar dinamicamente:
     1.  A imagem principal do copo de café.
-    2.  A cor de fundo do círculo (`.circulo`), que se adapta ao produto selecionado.
+    2.  A cor de fundo do círculo (`.circulo`), que se adapta ao produto selecionado, reforçando a imersão.
 * **Interatividade Simples e Elegante:** A seleção de um copo no menu inferior altera instantaneamente o produto em destaque na página e sua paleta de cores associada.
 
 ## 🚀 Tecnologias Utilizadas
@@ -16,7 +19,7 @@ Este repositório apresenta uma landing page dinâmica e interativa, inspirada n
 | :--- | :--- |
 | **React** | Biblioteca principal para a construção da interface de usuário. |
 | **JavaScript (ES6+)** | Lógica e gerenciamento de estado da aplicação. |
-| **HTML5 & CSS3** | Estrutura e estilização (o CSS original deve ser adaptado ou usado em um arquivo `style.css` ou `styled-components`, dependendo da sua abordagem). |
+| **HTML5 & CSS3** | Estrutura e estilização. |
 
 ## 🛠️ Como Executar o Projeto
 

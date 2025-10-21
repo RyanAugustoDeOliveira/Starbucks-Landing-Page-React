@@ -30,7 +30,7 @@ Você precisará ter o **Node.js** e o **npm** (ou Yarn) instalados.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+    git clone [https://github.com/RyanAugustoDeOliveira/Starbucks-Landing-Page-React)
     cd SEU_REPOSITORIO
     ```
 
@@ -47,7 +47,3 @@ Você precisará ter o **Node.js** e o **npm** (ou Yarn) instalados.
     ```
 
 O projeto será aberto automaticamente no seu navegador em `http://localhost:3000`.
-
-## 📁 Estrutura de Pastas (Sugestão)
-
-Para uma aplicação React padrão, você pode usar a seguinte estrutura:

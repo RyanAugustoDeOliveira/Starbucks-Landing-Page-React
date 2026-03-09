@@ -33,7 +33,7 @@ Você precisará ter o **Node.js** e o **npm** (ou Yarn) instalados.
 
 1.  **Clone o repositório:**
     ```bash
-      git clone [https://github.com/RyanAugustoDeOliveira/Starbucks-Landing-Page-React)
+      git clone [https://github.com/RyanALO/Sleipnir-Brew.git)
     cd SEU_REPOSITORIO
     ```
 
